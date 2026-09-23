@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tz8xvc.cn/sitemap.xml
